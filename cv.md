@@ -2,9 +2,9 @@
 __UX/UI Designer__
 ___
 #### Contacts:
- __Mobile:__ +7 924 453 00 00
- __E-mail:__ casiokid@yandex.ru
- __Telegram:__ @theminefield
+Mobile: +7 924 453 00 00
+E-mail: casiokid@yandex.ru
+Telegram: @theminefield
 ___
 #### About me:
 I'm an UX/UI designer with a strong interest in web development. 
