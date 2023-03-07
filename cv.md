@@ -3,7 +3,6 @@ __UX/UI Designer__
 ___
 #### Contacts:
 
-__Mobile:__ +7 924 453 00 00
 __Telegram:__ @theminefield
 ___
 #### About me:
